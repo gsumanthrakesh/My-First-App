@@ -1,0 +1,2 @@
+# smartcompletions
+completions app
